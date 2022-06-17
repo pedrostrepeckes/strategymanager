@@ -1,0 +1,2 @@
+# strategymanager
+Financial strategy manager
